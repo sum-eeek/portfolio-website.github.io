@@ -7,18 +7,20 @@ BSc Computer Science - Goldsmtihs, University of London (2022-2025)
 A-Levels - Knights Academy (2020-2022)
 
 ### Skills
-#### Programming: 
+#### Proficiency in the following programming languages: 
 - JavaScript
 - Java
 - Python
 - HTML
 - CSS
 - C#
-Teamwork and communication
-Problem solving skills
+#### Additional skills include:
+- Teamwork and communication
+- Problem solving skills
 
 ### Projects
-Study application (2024) - collaborative project
+Study application - a collaborative project (2024)
+- Application designed for students to study with peers. Made using Java, EJS and CSS.
 
 Forum website (2023)
 
