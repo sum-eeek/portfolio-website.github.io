@@ -1,13 +1,19 @@
 # portfolio-website.github.io
 # Sumaiya Chowdhury Portfolio
-3rd Year Computer Science Student at Goldsmiths University
+Computer Science graduate at Goldsmiths University.
 
 ### Education
 BSc Computer Science - Goldsmtihs, University of London (2022-2025)
 A-Levels - Knights Academy (2020-2022)
 
 ### Skills
-Programming: JavaScript, Java, HTML, CSS, C#
+#### Programming: 
+- JavaScript
+- Java
+- Python
+- HTML
+- CSS
+- C#
 Teamwork and communication
 Problem solving skills
 
